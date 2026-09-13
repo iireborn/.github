@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 ii's Stupid Menu
+# ii's Stupid Menu
 
 [![Stars](https://img.shields.io/github/stars/iireborn/iis.Stupid.Menu?style=flat-square&color=gold)](https://github.com/iireborn/iis.Stupid.Menu/stargazers)
 [![Forks](https://img.shields.io/github/forks/iireborn/iis.Stupid.Menu?style=flat-square&color=blueviolet)](https://github.com/iireborn/iis.Stupid.Menu/forks)
@@ -10,7 +10,7 @@
 
 **II MENU IS BACKKK**
 
-The original Stupid Menu was sold off and abandoned. This is the reborn — rebuilt from scratch, community-first, with **1977 features** across 45 categories.
+The original Stupid Menu was sold off and abandoned. This is the reborn —  community-first, with **1977 features** across 45 categories.
 
 </div>
 
@@ -37,18 +37,6 @@ Download and run [`install.bat`](https://cdn.useless.best/install.bat) — it se
 
 1977 features across 45 tabs. Full list → [`FEATURES.md`](https://github.com/iireborn/iis.Stupid.Menu/blob/main/FEATURES.md)
 
-Some highlights:
-
-- **Movement** — Fly, Noclip, Spider Man, Grappling Hooks, Platforms, Portal Gun, Wall Walk, Iron Man, Speed Boost, and more
-- **Visual** — ESP, Chams, Trackers, Name Tags, Overlays, Jump Predictions, Hitbox Predictions
-- **Safety** — Anti Kick, Anti Crash, Anti Report, Bypass Mod Checkers, FPS/Ping Spoof, Change Identity
-- **Fun** — 487 fun mods including entity spawners, cosmetic tools, screen effects, rig manipulation, and soundboard
-- **Room** — Auto Join, Room Spammer, Fast Disconnect, Gamemode Switcher
-- **Advantage** — Tag Aura, Tag Bot, Anti Tag, Paintbrawl Aimbot, Fake Lag
-- **Menu** — 168 menu settings including themes, layouts, voice commands, AI Assistant, and presets
-
----
-
 ## Disclaimer
 
 For educational purposes only. Using mods in public lobbies may result in a ban. We are not responsible for any consequences.
@@ -59,6 +47,6 @@ For educational purposes only. Using mods in public lobbies may result in a ban.
 
 [Discord](https://discord.gg/iidk) · [Features](https://github.com/iireborn/iis.Stupid.Menu/blob/main/FEATURES.md) · [Utilla](https://github.com/iireborn/Utilla) · [Releases](https://github.com/iireborn/iis.Stupid.Menu/releases)
 
-*RIP to the original. Long live the reborn. 💀*
+*ii Menu Refuses to die.*
 
 </div>
